@@ -83,10 +83,10 @@ const App = () => {
                       header={{
                         title: appName,
                         navigation: [
-                          { label: "Home", href: "/" },
-                          { label: "About", href: "/about" },
-                          { label: "Contact", href: "/contact" },
-                          { label: "Pricing", href: "/pricing" },
+                          { label: "About", href: "/" },
+                          { label: "Blog", href: "/blog" },
+                          { label: "Projects", href: "/projects" },
+                          { label: "CV", href: "/cv" },
                         ],
                         showNotifications: false,
                         showUserMenu: false,
